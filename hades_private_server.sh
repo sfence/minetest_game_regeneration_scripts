@@ -78,7 +78,7 @@ if [ ! -d "$repodir" ]; then
 else
   git -C $repodir fetch origin
 fi
-git -C $repodir checkout c4144627b201a6b118e610d35b548a3047e891df
+git -C $repodir checkout 2237772c1851729d59f6ba0c465b3b89cea3836e
 
 # mods hades_ski
 echo "Getting mods hades_ski"
@@ -691,7 +691,7 @@ fi
 
 # mods adaptation_techage, adaptation_cool_trees, adaptation_minetest_game, adaptation_pipeworks, adaptation_rubber, adaptation_farlands_reloaded, adaptation_moretrees, adaptation_elepower, adaptation_farming_redo, adaptation_hades_revisited, adaptation_mesecons, adaptation_technic, adaptation_xocean, adaptation_hades_extensionmods, adaptation_power_generators, adaptation_mineclone, adaptation_biofuel, adaptation_lib, adaptation_basic_materials commit check
 repodir=$modsdir/adaptation_modpack
-if [ $(git -C $repodir rev-parse HEAD) != c4144627b201a6b118e610d35b548a3047e891df ]; then
+if [ $(git -C $repodir rev-parse HEAD) != 2237772c1851729d59f6ba0c465b3b89cea3836e ]; then
   echo "adaptation_modpack is checkouted in unexpected commit."
 fi
 
