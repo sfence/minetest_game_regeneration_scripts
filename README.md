@@ -29,7 +29,7 @@ RECOMENDED if you do not want risk owerwritting/changind already installed mods 
   * `git clone https://github.com/sfence/hades_revisited.git /home/USERNAME/.minetest/games/hades_developing`
   * Create minetest world with WORLDNAME for gameid `hades_developing` (not start/run it) -> Can be checked/edited in world.mt file in WORLDNAME directory, if gameid is correct.
   * `hades_developing.sh hades_developing /home/USERNAME/.minetest/games /home/USERNAME/.minetest/worlds/WORLDNAME/worldmods`
-  * enable mods and play...
+  * play world...
 
 #### Optimal solution for new user or users who know what they are doing:
   * `hades_developing.sh hades_developing /home/USERNAME/.minetest/games /home/USERNAME/.minetest/mods`
