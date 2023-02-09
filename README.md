@@ -18,7 +18,7 @@ Script for regenerate SFENCE's Hades Revisited developing configuration with mod
 
 ## System requirements
 
-This is tested only under Linux. But it should be runnable from other unix systems without bigger problems and also from windows via mingw or cygwin environment.
+This is tested only under Linux. But it should be runnable from other unix systems without bigger problems and also from windows via mingw/cygwin or git bash environment.
 
 ## Using
 
