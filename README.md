@@ -6,6 +6,16 @@ Bash regeneration scripts for minetest game.
 
 BSD, see LICENSE file for details
 
+## Aviable games
+
+### `hades_private_server.sh`
+
+Script for regenerate SFENCE's Hades Revisited private server with mods.
+
+### `hades_developing.sh`
+
+Script for regenerate SFENCE's Hades Revisited developing configuration with mods. There is h igh risk of unfinished/incorrect functionality.
+
 ## System requirements
 
 This is tested only under Linux. But it should be runnable from other unix systems without bigger problems and also from windows via mingw or cygwin environment.
