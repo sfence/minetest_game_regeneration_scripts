@@ -12,9 +12,123 @@ BSD, see LICENSE file for details
 
 Script for regenerate SFENCE's Hades Revisited private server with mods.
 
+#### Mods list (can be incomplete):
+
+* adaptation modpack
+* appliances
+* basic_materials
+* chair_lift
+* church modpack
+* composting
+* feed_buckets
+* hades_3dforniture
+* hades_animalia
+* hades_animal_pack modpack
+* hades_aquaz
+* hades_biofuel
+* hades_compatibility
+* hades_cooltrees modpack
+* hades_cottages
+* hades_darkage
+* hades_extensionmods modpack
+* hades_extraores
+* hades_fire
+* hades_garden_trowel
+* hades_laboratory
+* hades_mesecons modpack
+* hades_paleotest
+* hades_petz modpack
+* hades_pkarcs modpack
+* hades_ski
+* hades_skinsdb
+* hades_snow
+* hades_technic modpack
+* hades_tnt
+* hades_travelnet
+* hades_villagers modpack
+* hades_xocean
+* inspect_tool
+* items_update
+* morelights modpack
+* painting
+* palisade
+* pole_scaffolding
+* powered_tools
+* power_generators
+* rope_bridges
+* sculpture
+* sdwalls
+* sfence_help
+* skeletons
+* spyglass
+* wateringcan
+* wield3d
+* writing
+
 ### `hades_developing.sh`
 
-Script for regenerate SFENCE's Hades Revisited developing configuration with mods. There is h igh risk of unfinished/incorrect functionality.
+Script for regenerate SFENCE's Hades Revisited developing configuration with mods. There is high risk of unfinished/incorrect functionality.
+
+#### Mods list (can be incomplete):
+
+* adaptation modpack
+* appliances
+* basic_materials
+* chair_lift
+* church_glass modpack
+* cleanroom
+* clothing_machines
+* composting
+* feed_buckets
+* hades_animalia
+* hades_animal_pack modpack
+* hades_aotearoa
+* hades_aquaz
+* hades_australia
+* hades_beautiflowers
+* hades_biofuel
+* hades_compatibility
+* hades_cooltrees modpack
+* hades_cottages
+* hades_darkage
+* hades_extensionmods modpack
+* hades_extraores
+* hades_fire
+* hades_fossils
+* hades_garden_trowel
+* hades_greek
+* hades_laboratory
+* hades_mesecons modpack
+* hades_metamorphosis
+* hades_paleotest
+* hades_petz modpack
+* hades_pkarcs modpack
+* hades_ski
+* hades_skinsdb
+* hades_snow
+* hades_technic modpack
+* hades_tnt
+* hades_travelnet
+* hades_villagers modpack
+* hades_xocean
+* laptop
+* morelights modpack
+* painting
+* palisade
+* pipeworks
+* pole_scaffolding
+* powered_tools
+* power_generators
+* rope_bridges
+* sculpture
+* sdwalls
+* sfence_help
+* skeletons
+* spyglass
+* super_computer
+* wateringcan
+* wield3d
+* writing
 
 ## System requirements
 
