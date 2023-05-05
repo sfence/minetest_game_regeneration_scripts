@@ -20,7 +20,7 @@ if [ ! -d "$repodir" ]; then
 else
   git -C $repodir fetch origin
 fi
-git -C $repodir checkout 973a6a4733c25279238cfb4e6efcef09ad5ae49a
+git -C $repodir checkout c2d136c750be2dd29f0946cd5d1d47ff85c37d25
 
 
 # mods hades_mesecons_lamp, hades_mesecons_detector, hades_mesecons_walllever, hades_mesecons_button, hades_mesecons_mvps, hades_mesecons_wires, hades_mesecons_receiver, hades_mesecons_alias, hades_mesecons_luacontroller, hades_mesecons_materials, hades_mesecons, hades_mesecons_switch, hades_mesecons_microcontroller, hades_mesecons_solarpanel, hades_mesecons_stickyblocks, hades_mesecons_fpga, hades_mesecons_blinkyplant, hades_mesecons_insulated, hades_mesecons_noteblock, hades_mesecons_random, hades_mesecons_torch, hades_mesecons_pressureplates, hades_mesecons_powerplant, hades_mesecons_pistons, hades_mesecons_movestones, hades_mesecons_lightstone, hades_mesecons_hydroturbine, hades_mesecons_gates, hades_mesecons_doors, hades_mesecons_commandblock, hades_mesecons_delayer, hades_mesecons_extrawires

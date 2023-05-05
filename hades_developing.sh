@@ -20,7 +20,7 @@ if [ ! -d "$repodir" ]; then
 else
   git -C $repodir fetch origin
 fi
-git -C $repodir checkout bcc1ce9849d16ba7fbac8df8288aa8923ed590e9
+git -C $repodir checkout 25f2a2cd6a19a04d347ce3d5df7e83452a542ec8
 
 
 # mods rope_bridges
